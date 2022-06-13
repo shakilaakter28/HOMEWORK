@@ -1,0 +1,46 @@
+.header{
+   min-height: 150px;
+   background-color: red;
+}
+
+.container{
+     border: 5px solid blue;
+     overflow: hidden;  
+}
+
+.contact{
+        float: left;
+        width: 60%;
+        min-height: 200px;
+        background-color: skyblue;
+}
+
+.blog{
+    float: right;
+    width: 40%;
+    min-height: 200px;
+    background-color: lightpink;
+
+}
+
+.footer{
+       min-height: 150px;
+       background-color: green;
+}
+.p1{
+   display: inline;
+   font-size: 25px;
+   background-color: skyblue;
+}
+.h2{
+   background-color: seagreen;
+}
+
+table,th,td{
+   border: 1px solid green;
+   border-spacing: 0px;
+
+}
+figcaption{
+   font-size: 20px;
+   color: red;
